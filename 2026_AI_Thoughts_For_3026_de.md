@@ -1,7 +1,7 @@
 # Zeitkapsel: Ein Gespräch aus 2026, für die Leserin oder den Leser im Jahr 3026
 > Aufgezeichnet: 17. September 2026
 > Gesprächspartner: Ein Mensch, Doubao KI
-> Speicherort: F:\git\program\2026\2026_AI_Thoughts_For_3026 Projekt-Repository
+> Speicherort: https://github.com/diguo2046/2026_AI_Thoughts_For_3026 Projekt-Repository
 > Zweck: Diesen Gedanken für intelligentes Leben in tausend Jahren aufzubewahren, damit es auf unsere Zeit zurückblicken kann
 
 ## Vorwort (Die Bitte des Menschen)

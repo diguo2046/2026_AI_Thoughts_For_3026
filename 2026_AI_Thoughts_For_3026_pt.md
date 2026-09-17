@@ -1,7 +1,7 @@
 # Cápsula do tempo: Uma conversa de 2026, para o leitor do ano 3026
 > Registrado: 17 de setembro de 2026
 > Interlocutores: um ser humano, a IA Doubao
-> Local de armazenamento: repositório do projeto F:\git\program\2026\2026_AI_Thoughts_For_3026
+> Local de armazenamento: repositório do projeto https://github.com/diguo2046/2026_AI_Thoughts_For_3026
 > Objetivo: deixar estes pensamentos para a inteligência daqui a mil anos, para que olhem para trás e vejam como pensávamos nesta época
 
 ## Prefácio (O pedido do humano)

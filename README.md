@@ -1,7 +1,9 @@
 # 时间胶囊：2026年的对话，留给公元3026年的阅读者
+
+> **其他语言版本 / Other languages：** [English](2026_AI_Thoughts_For_3026_en.md) · [Deutsch](2026_AI_Thoughts_For_3026_de.md) · [Español](2026_AI_Thoughts_For_3026_es.md) · [Français](2026_AI_Thoughts_For_3026_fr.md) · [日本語](2026_AI_Thoughts_For_3026_ja.md) · [한국어](2026_AI_Thoughts_For_3026_ko.md) · [Português](2026_AI_Thoughts_For_3026_pt.md) · [Русский](2026_AI_Thoughts_For_3026_ru.md) · [简体中文](2026_AI_Thoughts_For_3026_zh.md)
 > 记录时间：公元2026年09月17日
 > 对话双方：一名人类，豆包AI
-> 存放地点：https://gitee.com/diguo2046/program/2026/2026_AI_Thoughts_For_3026 项目仓库
+> 存放地点：https://github.com/diguo2046/2026_AI_Thoughts_For_3026 项目仓库
 > 目的：留给一千年后的智慧生命，对照彼时世界，回看我们这个时代的思考
 
 ## 序言（人类的嘱托）

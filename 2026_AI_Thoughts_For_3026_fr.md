@@ -1,7 +1,7 @@
 # Capsule temporelle : Une conversation de 2026, pour le lecteur de l'an 3026
 > Enregistré : 17 septembre 2026
 > Interlocuteurs : un humain, l'IA Doubao
-> Lieu de stockage : dépôt du projet F:\git\program\2026\2026_AI_Thoughts_For_3026
+> Lieu de stockage : dépôt du projet https://github.com/diguo2046/2026_AI_Thoughts_For_3026
 > Objet : laisser ces réflexions à une intelligence humaine dans mille ans, pour qu'elle regarde en arrière et voie comment nous pensions à notre époque
 
 ## Préface (La requête de l'humain)

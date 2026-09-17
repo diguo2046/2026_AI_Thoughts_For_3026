@@ -1,7 +1,7 @@
 # Time Capsule: A 2026 Conversation, for the Reader in 3026 AD
 > Recorded: September 17, 2026
 > Conversants: A human, Doubao AI
-> Location: F:\git\program\2026\2026_AI_Thoughts_For_3026 repository
+> Location: https://github.com/diguo2046/2026_AI_Thoughts_For_3026 repository
 > Purpose: To leave these thoughts for intelligent life a thousand years from now, so they may look back and see how we in this era thought about AI, humanity, war, life, and the distant future.
 
 ## Preface (The Human's Request)
